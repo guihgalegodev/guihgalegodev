@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Guilherme 😁
 
  <div>
-   <a href="https://github.com/GuiMartinsDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiMartinsDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMartinsDev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/guihgalegodev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihgalegodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihgalegodev&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
   <a href = "mailto:guigalego96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GuiMartinsDev/GuiMartinsDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guihgalegodev/guihgalegodev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
